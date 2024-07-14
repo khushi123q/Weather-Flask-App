@@ -19,7 +19,7 @@ This is a simple Flask web application that allows users to retrieve current wea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sidhharthashaw/Weather-Flask-App.git
+   https://github.com/khushi123q/Weather-Flask-App.git
    ```
 
 2. Install the required Python packages:
@@ -60,5 +60,5 @@ Contributions are welcome! Please create a pull request or open an issue for any
 
 ## Contact
    ```
-   Email: sidshaw12345@gmail.com
+   Email: shawkhushi10@gmail.com
    ```
